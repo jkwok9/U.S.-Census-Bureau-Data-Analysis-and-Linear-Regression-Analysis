@@ -17,7 +17,9 @@ This dataset is from the U.S Cenesus Bureau survey that is made public. There ar
 **incewage**: the wage and salary income
 # distribution of individuals based on their labor force participation status
 it is revealed that the vast majority of individuals in the dataset are employed. There is a very small number of individuals who are unemployed, shown by the short bar for the "Unemployed" category. Additionally, coming in second highest is a substantial number of individuals are not in the labor force, as seen by the bar for "Not in Labor Force," which is smaller than the "Employed" bar but stilnoticeably larger than the "Unemployed" bar. 
+
 ![participationBar](https://github.com/user-attachments/assets/143c4c17-0fb4-47de-ada5-1d5284d65006)
+<img src="https://github.com/user-attachments/assets/143c4c17-0fb4-47de-ada5-1d5284d65006" alt="Alt Text" width="300" height="200">
 
 
 
