@@ -15,10 +15,14 @@ This dataset is from the U.S Cenesus Bureau survey that is made public. There ar
 **uhrswork**: the usual hours worked per week for the individual\
 **inctot**: the total personal income\
 **incewage**: the wage and salary income
-# distribution of individuals based on their labor force participation status
+# Distribution of individuals based on their labor force participation status
 it is revealed that the vast majority of individuals in the dataset are employed. There is a very small number of individuals who are unemployed, shown by the short bar for the "Unemployed" category. Additionally, coming in second highest is a substantial number of individuals are not in the labor force, as seen by the bar for "Not in Labor Force," which is smaller than the "Employed" bar but stilnoticeably larger than the "Unemployed" bar. 
 
 <img src="https://github.com/user-attachments/assets/143c4c17-0fb4-47de-ada5-1d5284d65006" alt="Alt Text" width="450" height="300">
+
+# Distribution of individuals based on their sex
+
+It is indicated about the relative proportions of males and females in the population is that given the total number of individuals in 2023, there are a little more females than there are males. However, it also shows a fairly balanced distribution between males and females in the population, as the bars for both categories are of similar height.
 
 
 
