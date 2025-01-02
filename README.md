@@ -67,7 +67,7 @@ Based on the boxplot that was created from the distribution of wage income, this
 # Relationship between age and wage income. Is the relationship positive, negative, or negligible?
 Using the cor function to calculate the correlation coefficient of the relationship between age and wage income, I get that the correlation is 0.1307505. This correlation is a positive correlation. However, because it is closer to 0, it is considered a weak relationship. This also describes that as the age increases, the wages slightly increase, hence the weak positive correlation.
 
-<img src="https://github.com/user-attachments/assets/659267d5-66fb-480f-b7ff-a4139e839484" alt="Alt Text" width="550" height="300">
+<img src="https://github.com/user-attachments/assets/659267d5-66fb-480f-b7ff-a4139e839484" alt="Alt Text" width="650" height="300">
 
 # Relationship between wage and income
 The scatter with the fitted line suggest that the nature and strength of the relationship is a positive relationship. Because the fitted line
@@ -86,7 +86,7 @@ The magnitude of the slope coefficient for age is 811.39, meaning that for every
 The correlation coefficient between wage income and usual hours worked per week is 0.3607, indicating a moderate positive relationship. This suggests that as individuals work more hours per week, their wage income tends to increase. The positive sign of the coefficient confirms that higher work hours are associated with higher earnings, which aligns with expectations, as increased work hours often lead to higher total compensation.
 
 
-<img src="https://github.com/user-attachments/assets/ae7ce10a-af7d-41a6-a37a-cdc543be07d0" alt="Alt Text" width="550" height="300">
+<img src="https://github.com/user-attachments/assets/ae7ce10a-af7d-41a6-a37a-cdc543be07d0" alt="Alt Text" width="650" height="300">
 
 # Relationship between wage income and hours worked
 The scatter plot with the fitted red line suggests a moderate positive relationship between usual hours worked per week and wage income. As the number of hours worked increases, wage income also tends to increase, as indicated by the upward- sloping line. In addition, the fitted line indicates a positive relationship plot shows a significant amount of spread around the fitted line, indicating that the strength of the relationship is moderate.
@@ -106,7 +106,7 @@ After creating a binary varaible equals 1 for those with education levels of 4 y
 The correlation coefficient between four or more years of college education and wage income is 0.0663, indicating a very weak positive relationship. This suggests that individuals with four or more years of college education tend to have slightly higher wage incomes, but the relationship is extremely weak. The magnitude of the correlation is close to zero, meaning that having four or more years of college education has only a small impact on wage income.
 
 
-<img src="https://github.com/user-attachments/assets/60967faa-a4d0-4db3-858e-8853c960163d" alt="Alt Text" width="550" height="300">
+<img src="https://github.com/user-attachments/assets/60967faa-a4d0-4db3-858e-8853c960163d" alt="Alt Text" width="650" height="300">
 
 # Regression anaylsis on the relationship between four or more years of college education and wage income
 The regression analysis reveals a statistically significant positive relationship between having four or more years of college education and wage income. The coefficient for four_plus_college is 34,817, which means that, on average, individuals with four or more years of college education earn $34,817 more than those with less than four years of college education, holding other factors constant. The positive sign of the coefficient indicates that individuals with four or more years of college education tend to have higher wages. The p-value for the coefficient of four_plus_college is 0.00000000000000022 which is smaller than the 5% significance level (0.05) so we can reject the null hypothesis. The R-squared value is 0.004401. This means that 0.44% of the variability in the data can be explained by the linear relationship between the income wages and the four plus college.
